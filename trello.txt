@@ -1,0 +1,3 @@
+declare,imperative,functional,OOP, procedural etc
+https://en.wikipedia.org/wiki/Higher-order_function
+FP class http://www.cs.cornell.edu/courses/cs312/2008sp/
